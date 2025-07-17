@@ -1,4 +1,4 @@
-# CPU Scheduler Simulator (part of the Operating Systems course in Cyprus International University)
+# CPU Scheduler Simulator (part of the Operating Systems course in Cyprus International University) [Note : To be updated]
 # Program Details
 ●	This project is part of Cyprus International University’s Operating Systems Course
 
